@@ -1,0 +1,46 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: #06ec26;
+    font-style: italic;
+}
+
+span{
+    text-decoration:line-through ;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+}
+
+#olItem{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+#paraOne{
+    color: brown;
+    font-size: large;
+}
+
+#paraTwo{
+    color: brown;
+    font-size: xx-small;
+}
+
+#paraThree{
+    color: brown;
+    font-style: italic;
+}
